@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://github.com/dasaraul"><img src="https://cardivo.vercel.app/api?name=Tamaes&description=Yow%20im%20Tama,%20ntmu%20%23bukanwotagank&image=https://i.pinimg.com/564x/0b/5c/91/0b5c91d3e3c0fc913b89ec6e9ad0011b.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@tam.aspx&github=dasaraul&pattern=leaf&colorPattern=%23eaeaea" /></a>
+   <a href="https://github.com/dasaraul"><img src="https://cardivo.vercel.app/api?name=Tamaes&description=Yow%20im%20Tama,%20ntmu%20%23bukanwotagank&image=https://i.pinimg.com/736x/7a/1f/f5/7a1ff5b3a0175ecb44189267a4b9eb88.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@tam.aspx&github=dasaraul&pattern=leaf&colorPattern=%23eaeaea" /></a>
 </p>
 
 <p align="center">
