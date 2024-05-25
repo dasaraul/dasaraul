@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://github.com/dasaraul"><img src="https://cardivo.vercel.app/api?name=Tamaes&description=Hi,%20i%27m%20Tama%20Wecome%20to%20my%20GH%20page,%20Nice%20to%20meet%20you%20👋&image=https://i.pinimg.com/736x/2b/d2/aa/2bd2aa39c54923aba22914b186c1586d.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@tam.aspx&github=dasaraul&pattern=leaf&colorPattern=%23eaeaea" /><a>
+   <a href="https://github.com/dasaraul"><img src="https://cardivo.vercel.app/api?name=Tamaes&description=Hi, I'm Tama. Welcome to my GH page. Nice to meet you 👋&image=https://i.pinimg.com/564x/0b/5c/91/0b5c91d3e3c0fc913b89ec6e9ad0011b.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@tam.aspx&github=dasaraul&pattern=leaf&colorPattern=%23eaeaea" /></a>
 </p>
 
 <p align="center">
@@ -19,20 +19,20 @@
 
 ---
 
-## My Linux
+## My Operating System
 
 <p align="center">
    <a href="https://voyagerlive.org/">
-      <img src="/img/os.png" alt="Voyager OS" style="width:100%;" />
+      <img src="img/os.png" alt="Voyager OS" style="width:100%;" />
    </a>
 </p>
 
 ---
 
-## My Fav VSCode Extension
+## My VSCode Extension
 
 <p align="center">
    <a href="https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit">
-      <img src="/img/hasil.png" alt="GlassIt VSCode Extension" style="width:100%;" />
+      <img src="img/hasil.png" alt="GlassIt VSCode Extension" style="width:100%;" />
    </a>
 </p>
