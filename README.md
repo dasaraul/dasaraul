@@ -23,7 +23,7 @@
 
 <p align="center">
    <a href="https://voyagerlive.org/">
-      <img src="/img/os.png" alt="Voyager OS" width="200" />
+      <img src="/img/os.png" alt="Voyager OS" style="width:100%;" />
    </a>
 </p>
 
@@ -33,6 +33,6 @@
 
 <p align="center">
    <a href="https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit">
-      <img src="/img/hasil.png" alt="GlassIt VSCode Extension" width="200" />
+      <img src="/img/hasil.png" alt="GlassIt VSCode Extension" style="width:100%;" />
    </a>
 </p>
